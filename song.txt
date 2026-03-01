@@ -1,2 +1,4 @@
 tri kota tri kota
 chetire kota chetire kota
+pyat kotov pyat kotov
+shest kotov shest kotov
